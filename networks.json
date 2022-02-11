@@ -1,10 +1,10 @@
 [
   {
-    "name": "EOS",
-    "description": "The EOS Mainnet",
-    "owner": "The EOS community",
-    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
-    "type": "mainnet",
+    "name": "EOS TESTNET",
+    "description": "The EOS Testnet",
+    "owner": "The EOS Testnet",
+    "chainId": "8a34ec7df1b8cd06ff4a8abbaa7cc50300823350cadc59ab296cb00d104d2b8f",
+    "type": "testnet",
     "prefix":"EOS",
     "network": "eos",
     "endpoints": [
@@ -15,6 +15,17 @@
         "url": "104.154.211.201",
         "description": "API Node"
       },      
+    ]
+  },
+ {
+    "name": "EOS",
+    "description": "The EOS Mainnet",
+    "owner": "The EOS community",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+    "type": "mainnet",
+    "prefix":"EOS",
+    "network": "eos",
+    "endpoints": [
       {
         "name": "Greymass",
         "protocol": "https",
