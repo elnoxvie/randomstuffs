@@ -1,0 +1,33 @@
+[
+  {
+    "name": "EOS",
+    "description": "The EOS Mainnet",
+    "owner": "The EOS community",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+    "type": "mainnet",
+    "prefix":"EOS",
+    "network": "eos",
+    "endpoints": [
+      {
+        "name": "Greymass",
+        "protocol": "https",
+        "port": 443,
+        "url": "eos.greymass.com",
+        "description": "API Node"
+      },      {
+        "name": "EOS Nation",
+        "protocol": "https",
+        "port": 443,
+        "url": "api.eosn.io",
+        "description": "API Node"
+      },
+      {
+        "name": "GenerEOS",
+        "protocol": "https",
+        "port": 443,
+        "url": "mainnet.genereos.io",
+        "description": "Public node provided by GenerEOS"
+      }
+    ]
+  }
+]
