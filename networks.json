@@ -1,23 +1,5 @@
 [
   {
-    "name": "EOS TESTNET",
-    "description": "The EOS Testnet",
-    "owner": "The EOS Testnet",
-    "chainId": "8a34ec7df1b8cd06ff4a8abbaa7cc50300823350cadc59ab296cb00d104d2b8f",
-    "type": "testnet",
-    "prefix":"EOS",
-    "network": "eos",
-    "endpoints": [
-      {
-        "name": "testnet",
-        "protocol": "http",
-        "port": 8888,
-        "url": "104.154.211.201",
-        "description": "API Node"
-      },      
-    ]
-  },
- {
     "name": "EOS",
     "description": "The EOS Mainnet",
     "owner": "The EOS community",
@@ -174,3 +156,4 @@
     ]
   }
 ]
+
